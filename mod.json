@@ -1,0 +1,11 @@
+{
+    "geode": "4.0.0",
+    "gd": {
+        "android": "2.208"
+    },
+    "id": "aras.speedmenu",
+    "name": "Aras Speed Menu",
+    "version": "v1.0.0",
+    "developer": "Aras",
+    "description": "Geometry Dash speed adjustment menu."
+}
